@@ -21,7 +21,7 @@
             var marker = new google.maps.Marker({
                 position: myLatlng,
                 map: map,
-                title: 'ресторан "Националь"'
+                title: 'Vinnytsia'
             });           
             google.maps.event.addListener(marker, 'click', function () {
                 infowindow.open(map, marker);
