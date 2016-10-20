@@ -1,8 +1,8 @@
 <div id="content">
 <ul>
-<li>картинка 1</li>
-<li>картинка 2</li
-<li>картинка 3</li>
-<li>картинка 4</li>
+  <li><img src="images/1.png"</li>
+<li><img src="images/2.png"</li
+<li><img src="images/3.png"</li>
+<li><img src="images/4.png"</li>
 </ul>
 </div>
