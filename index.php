@@ -9,9 +9,9 @@
 </head>
 <body>
     <?php include($_SERVER['DOCUMENT_ROOT'].'/Site/elements/head.php'); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT'].'/Site/elements/form_input.php'); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/Site/elements/form_input.php'); ?>
     <?php include ($_SERVER['DOCUMENT_ROOT'].'/Site/elements/nav_menu.php');?>
     <?php include($_SERVER['DOCUMENT_ROOT'].'/Site/pages/default.php'); ?>	
-    
+    <?php include ($_SERVER['DOCUMENT_ROOT'].'/Site/pages/footer.php');?>
 </body>
 </html>
